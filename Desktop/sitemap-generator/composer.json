@@ -1,0 +1,16 @@
+{
+    "name": "sergey/sitemap-generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SitemapGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "kapetanvodichka@gmail.com"
+        }
+    ],
+    "require": {}
+}

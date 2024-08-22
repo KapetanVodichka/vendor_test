@@ -1,0 +1,38 @@
+# Composer
+/vendor/
+composer.lock
+
+# PHPStorm
+/.idea/
+/*.iml
+
+# Node.js
+/node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+/logs/
+*.log
+*.cache
+*.tmp
+*.swp
+
+# PHPUnit
+/.phpunit.result.cache
+/.coverage/
+
+# Vagrant
+.vagrant/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+*.sublime-project
+*.sublime-workspace
+*.vscode/
