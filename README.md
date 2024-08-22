@@ -12,3 +12,11 @@
 
 ```bash
 composer require sergey/sitemap-generator
+```
+
+## Тестирование
+В директории tests/ находится файл example.php, который демонстрирует использование библиотеки. Вы можете запустить этот файл через командную строку:
+
+```bash
+php tests/example.php
+```
